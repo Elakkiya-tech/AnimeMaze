@@ -1,0 +1,29 @@
+.pictures{
+ position: absolute;
+ width: 400px;
+ height: 650px;
+ left: 100px;
+ top: 50px;
+ background-color: #c7cfb7;
+}
+.title{
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 750px;
+    top: 100px;
+    padding: 25px;
+    
+
+}
+.content{
+    background-color: #ffe2e2;
+    position: absolute;
+    left: 750px;
+    top: 350px;
+    height: 250px;
+    width: 600px;
+    padding: 50px;
+    color: black;
+
+}
